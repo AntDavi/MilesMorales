@@ -91,7 +91,7 @@ footer {
 }
 
 .spiderman {
-  width: 130%;
+  width: 120%;
   -webkit-transform: translate3d(-150px, -50px, 0);
           transform: translate3d(-150px, -50px, 0);
 }
